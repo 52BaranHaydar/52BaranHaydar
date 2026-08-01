@@ -16,7 +16,7 @@
   <p align="center">
     <a href="https://github.com/52BaranHaydar"><img src="https://img.shields.io/badge/GitHub-52BaranHaydar-181717?style=flat-square&logo=github&logoColor=white" /></a>
     <a href="mailto:baranhaydar80@gmail.com"><img src="https://img.shields.io/badge/Email-baranhaydar80%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/52baran-haydar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   </p>
 
 </div>
@@ -25,9 +25,9 @@
 
 ### 👨‍💻 Hakkımda
 
-- 📱 **iOS & Mobil AI:** SwiftUI, SwiftData, CoreML, Vision Framework ve HealthKit ile performanslı mobil uygulamalar.
-- 🤖 **Yapay Zeka & Görüntü İşleme:** YOLOv11 ile nesne tespiti, Derin Öğrenme (CNN/ANN), PyTorch, Scikit-Learn ve CoreML entegrasyonu.
-- 📊 **Veri Bilimi & Analitik:** Pandas, NumPy, Seaborn ile Keşifsel Veri Analizi (EDA) ve İş Hikayeleştirme.
+- 📱 **iOS & Mobil AI:** SwiftUI, SwiftData, CoreML, Vision Framework ve HealthKit ile yüksek performanslı, gizlilik odaklı mobil uygulamalar geliştiriyorum.
+- 🤖 **Yapay Zeka & Görüntü İşleme:** YOLOv11 ile nesne tespiti, Derin Öğrenme (CNN/ANN), PyTorch, Scikit-Learn ve CoreML entegrasyonları üzerinde çalışıyorum.
+- 📊 **Veri Bilimi & Analitik:** Pandas, NumPy ve Seaborn ile Keşifsel Veri Analizi (EDA), modelleme ve iş veri hikayeleştirme süreçlerini yürütüyorum.
 
 ---
 
@@ -41,12 +41,12 @@
 
 ### 🚀 Öne Çıkan Projeler
 
-| Proje | Açıklama | Teknolojiler | Bağıntı |
+| Proje | Açıklama | Teknolojiler | Bağlantı |
 | :--- | :--- | :--- | :---: |
 | 🌿 **NutriLens** | Kamera ve CoreML ile besinleri anlık tanıyan yapay zeka destekli beslenme asistanı | `SwiftUI` `CoreML` `Vision` | [İncele ➔](https://github.com/52BaranHaydar/NutriLens) |
 | 📊 **E-Ticaret Veri Analizi** | 1.400+ siparişlik veri setinde EDA, hipotez testleri ve iş hikayeleştirme | `Python` `Pandas` `Seaborn` | [İncele ➔](https://github.com/52BaranHaydar/E-Ticaret-Veri-Seti-Analizi) |
 | 👁️ **YOLOv11 Object Detection** | YOLOv11 nesne tespiti modelleri ve performans karşılaştırmaları | `Computer Vision` `YOLOv11` `PyTorch` | [İncele ➔](https://github.com/52BaranHaydar/Yolov11ModelleriInceleme) |
-| 🧠 **ML Pratikleri Rehberi** | Regresyon, Sınıflandırma, Kümeleme konularında notebook seti | `Scikit-Learn` `Python` `Jupyter` | [İncele ➔](https://github.com/52BaranHaydar/Machine-Learning-Pratikleri) |
+| 🧠 **ML Pratikleri Rehberi** | Regresyon, Sınıflandırma ve Kümeleme konularında kapsayıcı notebook seti | `Scikit-Learn` `Python` `Jupyter` | [İncele ➔](https://github.com/52BaranHaydar/Machine-Learning-Pratikleri) |
 | 💬 **ChatAI** | Firebase ve CoreML destekli gerçek zamanlı akıllı sohbet uygulaması | `SwiftUI` `Firebase` `CoreML` | [İncele ➔](https://github.com/52BaranHaydar/ChatAI) |
 | 🪴 **PlantDoctorAI** | Yaprak fotoğraflarından bitki hastalıklarını teşhis eden Derin Öğrenme iOS uygulaması | `SwiftUI` `CoreML` `Vision` | [İncele ➔](https://github.com/52BaranHaydar/PlantDoctorAI) |
 
@@ -91,3 +91,4 @@
   [![Top](https://img.shields.io/badge/▲_Sayfa_Başına_Dön-007ACC?style=flat-square)](#-hakkımda)
 
 </div>
+
